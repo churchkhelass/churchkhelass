@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nikitaki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in JS CSS HTML PHP
+- 🌱 I’m currently learning toggliatti state university
 - 📫 How to reach me @verzilla_1
 
 <!---
