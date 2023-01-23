@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikitaki
+- 👋 Hi, I’m @nikita
 - 👀 I’m interested in JS CSS HTML PHP
 - 🌱 I’m currently learning toggliatti state university
 - 📫 How to reach me @verzilla_1
