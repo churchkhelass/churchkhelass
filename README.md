@@ -1,5 +1,5 @@
 - 👋 Привет, Я Никита
-- 👀 Мое резюме [HH.ru](https://togliatti.hh.ru/resume/17329326ff0bd26e2c0039ed1f544b77416857)
+- 👀 Мое резюме [HH.ru](https://togliatti.hh.ru/resume/484d9596ff0ef2c1f20039ed1f4e664169544e)
 - 📫 Я использую технологии: React, React Native, JS, TS, HMTL5, CSS3
 
 
