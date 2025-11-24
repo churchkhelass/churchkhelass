@@ -1,5 +1,6 @@
 - 👋 Привет, Я Никита
-- 👀 Мое приложение [flower trade] (https://www.rustore.ru/catalog/app/com.flower_trade.flowerChild)
+- 👀 Мое приложение [flower_trade]
+(https://www.rustore.ru/catalog/app/com.flower_trade.flowerChild)
 - 📫 Я использую технологии: React, React Native, JS, TS, HMTL5, CSS3
 
 
