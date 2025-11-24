@@ -1,5 +1,5 @@
 - 👋 Привет, Я Никита
-- 👀 Мое резюме [HH.ru](https://togliatti.hh.ru/resume/484d9596ff0ef2c1f20039ed1f4e664169544e)
+- 👀 Мое приложение https://www.rustore.ru/catalog/app/com.flower_trade.flowerChild
 - 📫 Я использую технологии: React, React Native, JS, TS, HMTL5, CSS3
 
 
